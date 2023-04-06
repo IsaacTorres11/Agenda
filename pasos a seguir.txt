@@ -1,0 +1,6 @@
+1 crear un componente llamado formulario 
+2 crear los  inputs nombre, direccion, telefono
+3 crear un estado llamado persona con su funcion para modificar dicho valor 
+4 el estado persona debera tener un arreglo de objetos con los parametros nombre, direccion, telefono
+
+5 al fomulario agregar la funcion onSubmit y crear una funcion para evitar que el evento se propague
